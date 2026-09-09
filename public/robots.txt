@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /outreach
+Disallow: /outreach/

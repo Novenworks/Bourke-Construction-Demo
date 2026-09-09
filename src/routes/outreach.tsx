@@ -60,7 +60,14 @@ function OutreachPage() {
             />
             <Li k="Owner" v="Ed Bourke (Edmund James Bourke)" />
             <Li k="PM named on site" v="Patrick Bourke" />
-            <Li k="GitHub" v={<a className="underline" href="https://github.com/Novenworks/Bourke-Construction-Demo">Novenworks/Bourke-Construction-Demo</a>} />
+            <Li
+              k="Deployed demo"
+              v={
+                <a className="underline" href="https://bourke-construction-demo.vercel.app">
+                  https://bourke-construction-demo.vercel.app
+                </a>
+              }
+            />
           </ul>
         </Section>
 

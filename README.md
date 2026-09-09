@@ -4,7 +4,10 @@ A **Novenworks** concept homepage and site for [Bourke Construction Inc.](https:
 
 **Bourke Construction is not a Novenworks client.** This was built unsolicited as a speculative demonstration. Business marks, Houzz badges, and project photography remain the property of their owners.
 
-## What this is
+**Live demo:** [bourke-construction-demo.vercel.app](https://bourke-construction-demo.vercel.app)  
+**Repo:** [Novenworks/Bourke-Construction-Demo](https://github.com/Novenworks/Bourke-Construction-Demo)
+
+
 
 An editorial, photography-first presentation of the company that already exists:
 

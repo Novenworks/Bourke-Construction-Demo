@@ -206,35 +206,42 @@ function OutreachPage() {
 
         <Section title="Subject lines">
           <ol className="list-decimal space-y-2 pl-5">
-            <li>
-              The Azek deck is better than the website around it
-            </li>
-            <li>
-              A speculative homepage for Bourke Construction (since 1996)
-            </li>
-            <li>
-              Ed — three decades of OC work, one clearer first screen
-            </li>
-          </ol>
+<li>Ed, I made something for Bourke Construction</li>
+<li>Had an idea for Bourke Construction</li>
+<li>Ed, I tried something with the Bourke Construction site</li>
+</ol>
         </Section>
 
         <Section title="Cold email">
           <pre className="whitespace-pre-wrap rounded-lg bg-paper p-5 text-sm leading-relaxed text-ink-soft">
             {`Hi Ed,
 
-I spent time on bourkeconstructionoc.com this week. The thing that stuck was the gap between the work itself — the Laguna Beach deck that landed in Azek’s national campaign, the kitchens and ADUs, the eleven-year Houzz Service streak — and how hard that story is to see on the current site.
+I came across Bourke Construction and started looking through the site. A few minutes turned into me actually rebuilding the homepage.
 
-Novenworks built a speculative redesign. Nobody hired us. It uses your photography and your facts (including CSLB license 717199, checked current). The point was to show what the same company looks like when the first screen is the work and the conversion path, not the template.
+The part I wanted to bring forward was the real project work and the finished results.
 
-If it’s useful as a conversation piece, I’m happy to walk through it. If not, no harm done — the live site stays yours.
+https://bourke-construction-demo.vercel.app
 
-Best`}
+No big pitch here. I just like building when I see an idea worth trying.
+
+Curious what you think.
+
+Vincent
+Novenworks`}
           </pre>
         </Section>
 
         <Section title="Follow-up">
           <pre className="whitespace-pre-wrap rounded-lg bg-paper p-5 text-sm leading-relaxed text-ink-soft">
-            {`Hi Ed — short follow-up on the speculative Bourke Construction homepage. Still sitting here if you want a look; still not a pitch that you “need” a new site. Happy to send the link again or drop it.`}
+            {`Hi Ed,
+
+Circling back once on this. I made that homepage concept for Bourke Construction and figured it was worth one more send.
+
+https://bourke-construction-demo.vercel.app
+
+If it is not on your radar right now, all good.
+
+Vincent`}
           </pre>
         </Section>
 
